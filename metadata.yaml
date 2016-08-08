@@ -1,0 +1,41 @@
+_repo: Contes-choisis-de-la-famille_12250
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12250'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Germany'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, German -- Translations into French'
+- !lcsh 'Fairy tales -- Germany'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: Le loup et l'homme -- Le violon merveilleux -- Le renard et les oies
+  -- Le renard et le chat -- Le docteur universel -- La douce bouillie -- Le loup
+  et le renard -- Les trois frères -- L'aïeul et le petit-fils -- Le clou -- Le petit
+  pâtre -- Le paysan et le diable -- Le linceul -- La mort la plus douce por les criminels.
+title: Contes choisis de la famille
+url: http://www.gutenberg.org/ebooks/12250
